@@ -14,10 +14,13 @@
 ## Imagenes
 
     Menu
-    ![](img/menu.png)
+
+![](img/menu.png)
 
     speech_recognition
-    ![](img/speech_recognition.png)
+
+![](img/speech_recognition.png)
 
     speech_to_text
-    ![](img/speech_to_text.png)
+
+![](img/speech_to_text.png)
